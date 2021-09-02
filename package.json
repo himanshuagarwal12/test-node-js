@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/knownasilya/testing-express-api.git"
+    "url": "https://github.com/himanshuagarwal12/test-node-js.git"
   },
   "keywords": [
     "testing",
@@ -17,12 +17,12 @@
     "api",
     "supertest"
   ],
-  "author": "Ilya Radchenko <ilya@burstcreations.com>",
+  "author": "Himanshu Agarwal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/knownasilya/testing-express-api/issues"
+    "url": "https://github.com/himanshuagarwal12/test-node-js/issues"
   },
-  "homepage": "https://github.com/knownasilya/testing-express-api",
+  "homepage": "https://github.com/himanshuagarwal12/test-node-js",
   "dependencies": {
     "express": "^4.11.2"
   },
